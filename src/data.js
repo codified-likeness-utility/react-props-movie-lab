@@ -54,6 +54,12 @@ const movieData = [
     genres: ['crime', 'period piece'],
     poster: 'the-trash-man'
   },
+  {
+    title: '',
+    IMDBRating: null,
+    genres: ['crime', 'period piece'],
+    poster: 'the-trash-man'
+  },
 ]
 
 export default movieData
